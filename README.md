@@ -1,4 +1,10 @@
 # Prithvi
+
+![](https://img.shields.io/github/issues/vegabird/prithvi.svg)
+![](https://img.shields.io/github/forks/vegabird/prithvi.svg)
+![](https://img.shields.io/github/stars/vegabird/prithvi.svg)
+[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#Prithvi)
+
 A Report Generation Tool for Security Assessment
 
 <h2>Usage</h2>
